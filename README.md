@@ -1,5 +1,5 @@
 # docker-vkb
-Docker image for [vkb](https://github.com/last-khajiit/vkb).
+Docker image for [vkb](https://github.com/gleb-kosteiko/vkb).
 Created just for learning the Docker.
 
 
